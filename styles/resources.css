@@ -91,18 +91,23 @@
     touch-action: none;
 }
 #health-bar {
+    display: none;
     touch-action: none;
 }
 #mana-bar {
+    display: none;
     touch-action: none;
 }
 #mp-ticker-bar {
+    display: none;
     touch-action: none;
 }
 #dot-ticker-bar {
+    display: none;
     touch-action: none;
 }
 #hot-ticker-bar {
+    display: none;
     touch-action: none;
 }
 #raid-buffs-bar {
