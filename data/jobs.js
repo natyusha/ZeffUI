@@ -54,7 +54,7 @@ var jobList = [
         name: "THM",
         fullname: "Thaumaturge",
         type: "CasterDPS",
-        position_type: "Caster",
+        position_type: "Selfish Caster",
     },
     {
         id: 8,
@@ -186,7 +186,7 @@ var jobList = [
         name: "BLM",
         fullname: "Black Mage",
         type: "CasterDPS",
-        position_type: "Caster",
+        position_type: "Selfish Caster",
         base: "THM",
     },
     {
